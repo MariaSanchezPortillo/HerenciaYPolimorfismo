@@ -1,4 +1,4 @@
-Autor: SMaría José Sánchez Portillo
+Autor: María José Sánchez Portillo
 
 Asignación: Polimorfismo y Herencia
 
