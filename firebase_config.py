@@ -26,7 +26,7 @@ class FirebaseRealtime:
             )
 
         if not firebase_admin._apps:
-            db_url = "https://polimorfismoherencia-default-rtdb.firebaseio.com/"  # 👈 ¡¡CAMBIA ESTA URL!!
+            db_url = "https://polimorfismoherencia-default-rtdb.firebaseio.com/"
             creds_json_path = "credentials.json"
             
             if not os.path.isfile(creds_json_path):
